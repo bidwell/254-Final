@@ -231,13 +231,13 @@ body {
 }
 
 a {
-  color: #0088cc;
+  color: white;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #005580;
+  color:white;
   text-decoration: underline;
 }
 
@@ -3188,13 +3188,11 @@ button.close {
 
 .btn {
   display: inline-block;
-
   padding: 4px 12px;
   margin-bottom: 0;
-
   font-size: 14px;
   line-height: 20px;
-  color: #d0ba88;
+  color: white;
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
@@ -3210,8 +3208,8 @@ button.close {
 .btn.active,
 .btn.disabled,
 .btn[disabled] {
-  color: #b25445;
-  background-color: #d0ba88;
+  color:white;
+  background-color: #c65e50;
 
 }
 
@@ -3226,7 +3224,7 @@ button.close {
 
 .btn:hover,
 .btn:focus {
-  color: #b25445;
+  color: white;
   text-decoration: none;
   background-position: 0 -15px;
   -webkit-transition: background-position 0.1s linear;
@@ -3921,7 +3919,7 @@ input[type="submit"].btn.btn-mini {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #b25445;
+  background-color: #e2c89b;
 }
 
 .nav > li > a > img {

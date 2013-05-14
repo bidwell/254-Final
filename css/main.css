@@ -11,17 +11,14 @@ body {
 header {
 	margin-top: 20px;
 	height:300px;
-	width:940px;
-
-	
-	
+	width:940px;	
 }
 
 .link {
 	color:white;
 }
 .link:hover {
-	color:#6b4337;
+	color:#f0ae60;
 	text-decoration:none;
 }
 header img {
@@ -40,17 +37,14 @@ nav {
 }
 
 nav li {
-	width:235px;
-
-	
-	
-	
+	width:235px;	
 }
 
 .nav-stacked li {
 	width:auto;
 	
 }
+
 .blue {
 	background-color:#4d79a0;
 	
@@ -74,4 +68,10 @@ nav li {
 
 .btn-samp {
 	margin-top: 40px;
+	}
+	
+.nav-pills > .active > a:hover,
+.nav-pills > .active > a:focus {
+	background-color:#c65e50;
+	
 	}
