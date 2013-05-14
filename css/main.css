@@ -1,0 +1,77 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+	background-color:#333132;
+	color:#d0ba88;
+	
+}
+header {
+	margin-top: 20px;
+	height:300px;
+	width:940px;
+
+	
+	
+}
+
+.link {
+	color:white;
+}
+.link:hover {
+	color:#6b4337;
+	text-decoration:none;
+}
+header img {
+	margin: 20px 0px 0px 200px;
+
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'MichromaRegular';
+	font-weight:normal;
+	
+}
+
+nav {
+	font-family: 'MichromaRegular';
+}
+
+nav li {
+	width:235px;
+
+	
+	
+	
+}
+
+.nav-stacked li {
+	width:auto;
+	
+}
+.blue {
+	background-color:#4d79a0;
+	
+}
+.pad h2, h3, h4, h5 {
+	padding:0px 10px 0px 10px;
+}
+
+.pad p {
+	padding:0px 20px 0px 20px;
+}
+
+.buttons {
+	margin-top: 49px;
+	height:127px;
+}
+
+.buttons btn {
+	margin: 19px 0px 0px 20px;
+}
+
+.btn-samp {
+	margin-top: 40px;
+	}
