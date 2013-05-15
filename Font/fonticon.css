@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'NWoutfitters';
-	src:url('fonts/NWoutfitters.eot');
-	src:url('fonts/NWoutfitters.eot?#iefix') format('embedded-opentype'),
-		url('fonts/NWoutfitters.woff') format('woff'),
-		url('fonts/NWoutfitters.ttf') format('truetype'),
-		url('fonts/NWoutfitters.svg#NWoutfitters') format('svg');
+	src:url('NWoutfitters.eot');
+	src:url('NWoutfitters.eot?#iefix') format('embedded-opentype'),
+		url('NWoutfitters.woff') format('woff'),
+		url('NWoutfitters.ttf') format('truetype'),
+		url('NWoutfitters.svg#NWoutfitters') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
