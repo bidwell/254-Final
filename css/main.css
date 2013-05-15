@@ -5,7 +5,8 @@
    ========================================================================== */
 body {
 	background-color:#333132;
-	color:#d0ba88;
+	color:#e2c89b;
+	font-family:Arial, Helvetica, sans-serif;
 	
 }
 header {
@@ -26,11 +27,6 @@ header img {
 
 }
 
-h1, h2, h3, h4, h5 {
-	font-family: 'MichromaRegular';
-	font-weight:normal;
-	
-}
 
 nav {
 	font-family: 'MichromaRegular';
@@ -48,8 +44,17 @@ nav li {
 .blue {
 	background-color:#4d79a0;
 	
+	
 }
-.pad h2, h3, h4, h5 {
+
+h1, h2, h3, h4, h5 {
+	font-family: 'MichromaRegular';
+	font-weight:normal;
+	color:#d0ba88;
+	
+}
+
+.pad h1, h2, h3, h4, h5 {
 	padding:0px 10px 0px 10px;
 }
 
@@ -75,3 +80,56 @@ nav li {
 	background-color:#c65e50;
 	
 	}
+.color {
+	width:140px;
+	height:50px;
+
+}
+.red {
+	background-color:#b25445;
+	color:white;
+}
+.ltred {
+	background-color:#c65e50;
+	color:white;
+}
+.brown {
+	background-color:#6b4337;
+	color:white;
+}
+.ltbrown {
+	background-color:#8d5e5e;
+	color:white;
+}
+.orange {
+	background-color:#f39ba4;
+	color:white;
+}
+.ltorange {
+	background-color:#f0ae60;
+	color:white;
+}
+.kaki {
+	background-color:#d0ba88;
+	color:white;
+}
+.ltkaki {
+	background-color:#e2c896;
+	color:white;
+}
+.green {
+	background-color:#6e9476;
+	color:white;
+}
+.ltgreen {
+	background-color:#7fa587;
+	color:white;
+}
+.ltblue {
+	background-color:#5d8eaf;
+	color:white;
+}
+
+.icon {
+	font-family: 'NWoutfitters';
+}
