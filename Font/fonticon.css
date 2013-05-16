@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'NWoutfitters';
+	src:url('NWoutfitters.eot');
+	src:url('NWoutfitters.eot?#iefix') format('embedded-opentype'),
+		url('NWoutfitters.woff') format('woff'),
+		url('NWoutfitters.ttf') format('truetype'),
+		url('NWoutfitters.svg#NWoutfitters') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
